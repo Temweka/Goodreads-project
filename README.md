@@ -20,5 +20,5 @@ The libraries used (optional -- how to install)
 The data was obtained from Kaggle (https://www.kaggle.com/austinreese/goodreads-books). NB: Very large file
 
 ## Acknowledgements: 
-Thanks to Austin Reese for scraping the data 
+Thanks to Austin Reese for scraping the data \\
 Thanks to Goodreads for housing the data 

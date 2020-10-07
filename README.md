@@ -11,13 +11,22 @@ Link to blogpost: https://medium.com/@temweka.chirwa/what-makes-books-goodreads-
 A summary of the results of the analysis (can include a brief sentence summarizing the answer to each of your asked questions)
 
 ## Files in Repo
-The files in the repository with a small description of each
+There is a jupyter notebook `Goodreads_visual_exploration.ipynb` that contains all the code and visualizations for this project
 
-## Libraries
-The libraries used (optional -- how to install)
-
+There is also data folder that contains a text file with the URL to the dataset. The dataset could ot be uploaded directly due to its size.
 
 The data was obtained from Kaggle (https://www.kaggle.com/austinreese/goodreads-books). NB: Very large file
+
+## Libraries
+The libraries used:
+1. pandas 
+2. numpy
+3. os
+4. math
+5. re
+6. statistics
+7. matplotlib.pyplot
+8. seaborn 
 
 ## Acknowledgements: 
 Thanks to Austin Reese for scraping the data \

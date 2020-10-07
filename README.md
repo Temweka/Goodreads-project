@@ -3,12 +3,12 @@
 ## Description & Motivation
 This repository provides the code and visualisations used in a medium blogpost about Goodreads data. The project looks at some descriptive statistics about the kinds of books on Goodreads. 
 
-The motivation for the project (this should be a bit more detail -- why was this project chosen?)
+I like books and I like data. So I wanted to create fun and interesting visualistions where these two pleasures of mine intersect. I wanted to see if there were any immediately observable trends about popular books in the data. 
 
-Link to blogpost: https://medium.com/@temweka.chirwa/what-makes-books-goodreads-1f292eb4945c
 
 ### Results
-A summary of the results of the analysis (can include a brief sentence summarizing the answer to each of your asked questions)
+The main findings of the analysis are documented in a medium blogpost. \
+Link to blogpost: https://medium.com/@temweka.chirwa/what-makes-books-goodreads-1f292eb4945c
 
 ## Files in Repo
 There is a jupyter notebook `Goodreads_visual_exploration.ipynb` that contains all the code and visualizations for this project
